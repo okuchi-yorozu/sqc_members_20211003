@@ -1,5 +1,5 @@
-Survival Quiz CITY 20211003 に参加してくださった方々
-アーカイブ: https://www.youtube.com/watch?v=XQocY42EkOU
+Survival Quiz CITY 20211003 に参加してくださった方々  
+アーカイブ: [https://www.youtube.com/watch?v=XQocY42EkOU](https://www.youtube.com/watch?v=XQocY42EkOU)
 
 ## ◆配信タグ #遊仲部
 
