@@ -3,21 +3,7 @@ Survival Quiz CITY 20211003 に参加してくださった方々
 
 ## ◆配信タグ #遊仲部
 
-### 遊仲部メンバー
-
-| No. | Name | Links |
-| --- | ---- | ---- |
-| 1   | 鷹良あこ | [<img src="src/images/twitter.png" width="20">](https://twitter.com/coa_la_taka29) [<img src="src/images/twitch.png" width="20">](https://www.twitch.tv/akotakara0607) |
-| 2   | 角酒あや | [<img src="src/images/twitter.png" width="20">](https://twitter.com/kadosaka_aya) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/c/AyaKadosaka) |
-| 3   | 億千よろず | [<img src="src/images/twitter.png" width="20">](https://twitter.com/okuchi_yorozu) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCpEsTR5Nnd0-HgKngIQqbmA) |
-| 4   | 海野いわし | [<img src="src/images/twitter.png" width="20">](https://twitter.com/umino_iwashi) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCGt4tmwTA-8r2wM7OhTjOFQ) |
-| 5   | 八坂まと | [<img src="src/images/twitter.png" width="20">](https://twitter.com/yasaka_mato) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCvfrFE4G2eH4SuFdDBs0urA) |
-| 6   | ウェン・アイ | [<img src="src/images/twitter.png" width="20">](https://twitter.com/when_ai) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCrYrdqxPE7t7xcxG51REejQ) |
-| 7   | 今音輝 | [<img src="src/images/twitter.png" width="20">](https://twitter.com/imane_teru) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UC3YVBw7jrORz8yOGF_vNUJQ) |
-
-
-### ご参加いただけた皆様
-
+### ご参加いただいた皆様
 
 | No. | Name | Links |
 | --- | ---- | ---- |
@@ -42,3 +28,17 @@ Survival Quiz CITY 20211003 に参加してくださった方々
 | 19  | 月葉チリンさん | [<img src="src/images/twitter.png" width="20">](https://twitter.com/la_chirin) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCAWVHPHlL8yU_W_KVwvohDg) |
 | 20  | メガヨッシーさん | [<img src="src/images/twitter.png" width="20">](https://twitter.com/fullmegayoshi) [<img src="src/images/twitch.png" width="20">](https://www.twitch.tv/fullarmormegayoshi) |
 | 21  | かえるぴよぉーさん | [<img src="src/images/twitter.png" width="20">](https://twitter.com/kaeru_sabuxu) |
+
+### 遊仲部メンバー
+
+| No. | Name | Links |
+| --- | ---- | ---- |
+| 1   | 鷹良あこ | [<img src="src/images/twitter.png" width="20">](https://twitter.com/coa_la_taka29) [<img src="src/images/twitch.png" width="20">](https://www.twitch.tv/akotakara0607) |
+| 2   | 角酒あや | [<img src="src/images/twitter.png" width="20">](https://twitter.com/kadosaka_aya) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/c/AyaKadosaka) |
+| 3   | 億千よろず | [<img src="src/images/twitter.png" width="20">](https://twitter.com/okuchi_yorozu) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCpEsTR5Nnd0-HgKngIQqbmA) |
+| 4   | 海野いわし | [<img src="src/images/twitter.png" width="20">](https://twitter.com/umino_iwashi) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCGt4tmwTA-8r2wM7OhTjOFQ) |
+| 5   | 八坂まと | [<img src="src/images/twitter.png" width="20">](https://twitter.com/yasaka_mato) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCvfrFE4G2eH4SuFdDBs0urA) |
+| 6   | ウェン・アイ | [<img src="src/images/twitter.png" width="20">](https://twitter.com/when_ai) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCrYrdqxPE7t7xcxG51REejQ) |
+| 7   | 今音輝 | [<img src="src/images/twitter.png" width="20">](https://twitter.com/imane_teru) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UC3YVBw7jrORz8yOGF_vNUJQ) |
+
+
