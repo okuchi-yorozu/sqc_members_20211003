@@ -10,9 +10,9 @@ Survival Quiz CITY 20211003 に参加してくださった方々
 | 1   | みーしゃんさん | [<img src="src/images/twitch.png" width="20">](https://www.twitch.tv/miiisyansan) |
 | 2   | かもへっぽこさん | [<img src="src/images/twitter.png" width="20">](https://twitter.com/kamoheppoko) [<img src="src/images/twitch.png" width="20">](https://www.twitch.tv/kamoheppoko) |
 | 3   | しょこらさん | [<img src="src/images/twitter.png" width="20">](https://twitter.com/syokorasandazo) [<img src="src/images/twitch.png" width="20">](https://www.twitch.tv/syokorasan) |
-| 4   | せるひさん | [<img src="src/images/twitter.png" width="20">](https://twitter.com/celhiyu) [<img src="src/images/twitch.png" width="20">](https://www.youtube.com/channel/UCveGb3SgKP4J5IiHQMEDWOQ) |
+| 4   | せるひさん | [<img src="src/images/twitter.png" width="20">](https://twitter.com/celhiyu) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCveGb3SgKP4J5IiHQMEDWOQ) |
 | 5   | 緋蓮雀さん | [<img src="src/images/twitter.png" width="20">](https://twitter.com/hirenjak) [<img src="src/images/twitch.png" width="20">](https://www.twitch.tv/hiren_jak) |
-| 6   | ゴックビーさん | [<img src="src/images/twitter.png" width="20">](https://twitter.com/GokbyDayo) [<img src="src/images/twitch.png" width="20">](twitch.tv/gokbydayo) |
+| 6   | ゴックビーさん | [<img src="src/images/twitter.png" width="20">](https://twitter.com/GokbyDayo) [<img src="src/images/twitch.png" width="20">](https://twitch.tv/gokbydayo) |
 | 7   | りズゥさん | [<img src="src/images/twitter.png" width="20">](https://twitter.com/rizz0125) [<img src="src/images/twitch.png" width="20">](https://www.twitch.tv/rizzriz) |
 | 8   | 豆腐さん | [<img src="src/images/twitter.png" width="20">](https://twitter.com/tofu_01414) [<img src="src/images/twitch.png" width="20">](https://www.twitch.tv/toufu0141) |
 | 9   | 雛餅しゅか*さん | [<img src="src/images/twitter.png" width="20">](https://twitter.com/syukahinamochi) [<img src="src/images/twitch.png" width="20">](https://www.twitch.tv/syukahinamochi) |
